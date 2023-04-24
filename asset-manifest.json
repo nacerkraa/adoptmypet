@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/adoptPet/static/css/main.67daa4e8.css",
-    "main.js": "/adoptPet/static/js/main.142f9753.js",
-    "index.html": "/adoptPet/index.html",
-    "main.67daa4e8.css.map": "/adoptPet/static/css/main.67daa4e8.css.map",
-    "main.142f9753.js.map": "/adoptPet/static/js/main.142f9753.js.map"
+    "main.css": "/adoptmypet/static/css/main.67daa4e8.css",
+    "main.js": "/adoptmypet/static/js/main.142f9753.js",
+    "index.html": "/adoptmypet/index.html",
+    "main.67daa4e8.css.map": "/adoptmypet/static/css/main.67daa4e8.css.map",
+    "main.142f9753.js.map": "/adoptmypet/static/js/main.142f9753.js.map"
   },
   "entrypoints": [
     "static/css/main.67daa4e8.css",
